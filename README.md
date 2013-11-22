@@ -1,6 +1,6 @@
 # lein-touchme-example
 
-Project example for [lein-touchme](https://github.com/sogilis/lein-touchme)
+Project example for [touchme](https://github.com/sogilis/touchme)
 
 ## Installation
 
